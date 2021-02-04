@@ -1,4 +1,4 @@
-## Basic python problems and solutions will be added here in this report  🐍 
+## Basic python problems and solutions will be added here in this repository  🐍 
 ## You may find your class test code :grin:
 
 
